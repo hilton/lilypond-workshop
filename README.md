@@ -40,3 +40,13 @@ Note: if you start SimpleSynth (or another MIDI player) _after_ Frescobaldi, ena
 ## Examples
 
 See the `.ly` Lilypond files in this repository for the workshop examples.
+
+## Workshop exercises
+
+1. Retype `1 Minimal input` and `2 Basic notation.ly`.
+1. In `2 Basic notation.ly`, complete the melody.
+1. Create the following, based on the example in `3 Lyrics.ly`
+
+  ![Nursery rhyme exercise](4 Nursery rhyme exercise.svg)
+
+  Note: use `\time 6/8` before the notes to set the bar length.
