@@ -47,6 +47,6 @@ See the `.ly` Lilypond files in this repository for the workshop examples.
 1. In `2 Basic notation.ly`, complete the melody.
 1. Create the following, based on the example in `3 Lyrics.ly`
 
-  ![Nursery rhyme exercise](4 Nursery rhyme exercise.svg)
+  ![Nursery rhyme exercise](https://raw.githubusercontent.com/hilton/lilypond-workshop/master/4%20Nursery%20rhyme%20exercise.svg)
 
   Note: use `\time 6/8` before the notes to set the bar length.
