@@ -7,7 +7,7 @@
   a b c d e f g
 }
 
-% Add score, midi and layout blocks to enable MIDI output.
+% Add score, midi and layout blocks to enable MIDI as well as PDF output.
 \score {
   {
     a b c d e f g
