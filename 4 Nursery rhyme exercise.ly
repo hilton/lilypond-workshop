@@ -20,6 +20,13 @@
     vug -- gen -- de, vug -- gen -- de
     ov -- er Kat -- te -- gatt 
   }
+  \addlyrics {
+    Row, row, row your boat,
+    gent -- ly down the stream.
+    Mer -- ri -- ly, mer -- ri -- ly,
+    mer -- ri -- ly, mer -- ri -- ly,
+    life is but a dream.
+  }
   \layout {}
   \midi {}
 }
