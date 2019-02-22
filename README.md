@@ -13,6 +13,10 @@ This workshop requires the following software:
 * A [MIDI](https://en.wikipedia.org/wiki/MIDI) player for audio output (optional)
   * MacOS: [SimpleSynth](http://notahat.com/simplesynth/)
 
+## Configuration
+
+1. _Frescobaldi / Preferences… / LilyPond Preferences / Running LilyPond_: enable _Run LilyPond with English messages_
+
 ## Testing the set-up
 
 1. Open SimpleSynth (MacOS: right-click and select Open) first

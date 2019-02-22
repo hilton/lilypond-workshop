@@ -12,6 +12,6 @@
   {
     a b c d e f g
   }
-  \layout {}
-  \midi {}
+  \layout {} % Output PDF
+  \midi {}   % Output MIDI
 }
