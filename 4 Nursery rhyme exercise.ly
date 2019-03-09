@@ -8,8 +8,8 @@
   \relative c' {
     \tempo 4. = 100
     \time 6/8
-    c4. c c4 d8 e4. 
-    e4 d8 e4 f8 g4. r
+    \set Staff.midiInstrument = "marimba"
+    c4. c c4 d8 e4. e4 d8 e4 f8 g4. r
     c8 c c g g g e e e c c c
     g'4 f8 e4 d8 c4. r
     \bar "|."
