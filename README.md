@@ -32,6 +32,7 @@ This workshop requires the following software:
         c, c c' c''
       }
       \midi {}
+      \layout {}
     }
     ```
 1. To re-enable generate music notation as well as MIDI output, add the line `\layout {}` after the `midi {}` line
